@@ -1,0 +1,13 @@
+.place--reverse {
+    direction: rtl;
+}
+
+    .place--reverse .place__content {
+        direction: ltr;
+    }
+
+@media screen and (max-width: 768px) {
+    .place--reverse {
+        direction: ltr;
+    }
+}

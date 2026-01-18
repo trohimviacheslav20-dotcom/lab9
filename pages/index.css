@@ -1,0 +1,32 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__complaint/header__complaint.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__nav/header__nav.css);
+
+@import url(../blocks/banner/banner.css);
+@import url(../blocks/banner/__image/banner__image.css);
+@import url(../blocks/banner/__subtitle/banner__subtitle.css);
+@import url(../blocks/banner/__title/banner__title.css);
+
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__content/place__content.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__reverse/place__reverse.css);
+@import url(../blocks/place/__text/place__text.css);
+@import url(../blocks/place/__title/place__title.css);
+
+@import url(../blocks/testimonials/testimonials.css);
+@import url(../blocks/testimonials/__author/testimonials__author.css);
+@import url(../blocks/testimonials/__list/testimonials__list.css);
+@import url(../blocks/testimonials/__subtitle/testimonials__subtitle.css);
+@import url(../blocks/testimonials/__text/testimonials__text.css);
+@import url(../blocks/testimonials/__title/testimonials__title.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+

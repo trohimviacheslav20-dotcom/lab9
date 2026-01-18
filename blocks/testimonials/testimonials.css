@@ -1,0 +1,9 @@
+.testimonials {
+    padding: 80px 40px;
+}
+
+@media screen and (max-width: 480px) {
+    .testimonials {
+        padding: 60px 20px;
+    }
+}
