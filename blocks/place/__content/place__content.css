@@ -1,3 +1,13 @@
 .place__content {
-    max-width: 500px;
+    padding: 64px;
+}
+
+.place__content_theme_light {
+    background-color: #f2f2f2;
+}
+
+@media screen and (max-width: 480px) {
+    .place__content {
+        padding: 40px 20px;
+    }
 }

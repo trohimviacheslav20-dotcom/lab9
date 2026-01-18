@@ -1,10 +1,10 @@
 .testimonials__list {
-    list-style: none;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 40px;
-    margin: 0;
+    column-gap: 40px;
+    list-style: none;
     padding: 0;
+    margin: 0;
 }
 
 @media screen and (max-width: 1024px) {

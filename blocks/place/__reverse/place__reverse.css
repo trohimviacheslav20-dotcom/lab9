@@ -1,9 +1,13 @@
 .place--reverse {
-    direction: rtl;
+    flex-direction: row-reverse;
 }
 
+    .place--reverse .place__image {
+        order: 2;
+    }
+
     .place--reverse .place__content {
-        direction: ltr;
+        order: 1;
     }
 
 @media screen and (max-width: 768px) {

@@ -1,5 +1,7 @@
 .testimonials {
-    padding: 80px 40px;
+    padding: 128px 64px 0;
+    max-width: 1100px;
+    margin: 0 auto;
 }
 
 @media screen and (max-width: 480px) {

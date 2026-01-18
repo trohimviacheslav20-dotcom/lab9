@@ -1,9 +1,7 @@
 .place {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 40px;
-    padding: 60px 40px;
-    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 120px;
 }
 
 @media screen and (max-width: 768px) {

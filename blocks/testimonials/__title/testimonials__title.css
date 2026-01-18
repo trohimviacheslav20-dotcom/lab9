@@ -1,7 +1,9 @@
+
 .testimonials__title {
-    font-size: 32px;
-    max-width: 700px;
-    margin: 20px 0 60px;
+    font-size: 40px;
+    line-height: 44px;
+    max-width: 720px;
+    margin: 0 0 80px;
 }
 
 @media screen and (max-width: 480px) {
